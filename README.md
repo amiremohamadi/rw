@@ -33,5 +33,8 @@ rw.parseToFile(list);
 rw.parseToVec(list);
 ```
 
+> There is also an example: 
+[example](https://github.com/amiremohamadi/rw/tree/master/example)
+
 ## ToDo
 - [ ] Many Things!
